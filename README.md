@@ -2,7 +2,7 @@
 meikei storytelling proof-of-concept (PoC)
 
 # Storytelling Demo
-htps://hfu.github.io/ms
+https://hfu.github.io/ms
 
 # Edit
 https://github.com/hfu/ms/blob/main/docs/config.js
