@@ -64,9 +64,30 @@ var config = {
       "onChapterEnter": [],
       "onChapterExit": [],
       "rotateAnimation": true
+    },
+    {
+      "alignment": "right",
+      "callback": "''",
+      "title": "プール",
+      "description": "ここはプールです。学校にはプールがあります。",
+      "hidden": false,
+      "id": "s4",
+      "location": {
+        "bearing": 29.3,
+        "center": [
+          140.1271562,
+          36.0518283
+        ],
+        "pitch": 46,
+        "zoom": 20.1
+      },
+      "mapAnimation": "flyTo",
+      "onChapterEnter": [],
+      "onChapterExit": [],
+      "rotateAnimation": true
     }
   ],
-  "footer": "全体のフッター",
+  "footer": "このプロジェクトは、＊です。",
   "showMarkers": false,
   "style": "https://optgeo.github.io/fgd-tkb/style.json",
   "subtitle": "全体のサブタイトル",
