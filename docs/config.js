@@ -29,7 +29,7 @@ var config = {
       "title": "ストーリー2のタイトル",
       "description": "ストーリー2の記述",
       "hidden": false,
-      "id": "s1",
+      "id": "s2",
       "location": {
         "bearing": -115.2,
         "center": [
