@@ -1,5 +1,5 @@
 # ms
-meikei storytelling PoC
+meikei storytelling proof-of-concept (PoC)
 
 # Storytelling Demo
 htps://hfu.github.io/ms
