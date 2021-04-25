@@ -5,8 +5,8 @@ var config = {
     {
       "alignment": "right",
       "callback": "''",
-      "title": "ストーリーのタイトル",
-      "description": "ストーリーの記述",
+      "title": "ストーリー1のタイトル",
+      "description": "ストーリー1の記述",
       "hidden": false,
       "id": "s1",
       "location": {
@@ -22,12 +22,33 @@ var config = {
       "onChapterEnter": [],
       "onChapterExit": [],
       "rotateAnimation": true
+    },
+    {
+      "alignment": "right",
+      "callback": "''",
+      "title": "ストーリー2のタイトル",
+      "description": "ストーリー2の記述",
+      "hidden": false,
+      "id": "s1",
+      "location": {
+        "bearing": -115.2,
+        "center": [
+          140.1282515,
+          36.0514803
+        ],
+        "pitch": 61,
+        "zoom": 18.59
+      },
+      "mapAnimation": "flyTo",
+      "onChapterEnter": [],
+      "onChapterExit": [],
+      "rotateAnimation": true
     }
   ],
-  "footer": "フッター",
+  "footer": "全体のフッター",
   "showMarkers": false,
   "style": "https://optgeo.github.io/fgd-tkb/style.json",
-  "subtitle": "サブタイトル",
+  "subtitle": "全体のサブタイトル",
   "theme": "light",
-  "title": "タイトル"
+  "title": "全体のタイトル"
 }
