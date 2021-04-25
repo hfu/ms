@@ -43,6 +43,27 @@ var config = {
       "onChapterEnter": [],
       "onChapterExit": [],
       "rotateAnimation": true
+    },
+    {
+      "alignment": "right",
+      "callback": "''",
+      "title": "ストーリー3のタイトル",
+      "description": "ストーリー3の記述",
+      "hidden": false,
+      "id": "s3",
+      "location": {
+        "bearing": 152,
+        "center": [
+          140.1278828,
+          36.051027
+        ],
+        "pitch": 0,
+        "zoom": 19.62
+      },
+      "mapAnimation": "flyTo",
+      "onChapterEnter": [],
+      "onChapterExit": [],
+      "rotateAnimation": true
     }
   ],
   "footer": "全体のフッター",
